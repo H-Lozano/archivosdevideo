@@ -1,0 +1,410 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,PE | BETHEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/105.ts
+#EXTINF:-1,PE | LATINA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/2.ts
+#EXTINF:-1,PE | WILLAX
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/5.ts
+#EXTINF:-1,PE | AMERICA TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/3.ts
+#EXTINF:-1,PE | PANAMERICANA TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/4.ts
+#EXTINF:-1,PE | IPE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/114.ts
+#EXTINF:-1,PE | TVPERU
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/6.ts
+#EXTINF:-1,PE | RPP NOTICIAS TV HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/73.ts
+#EXTINF:-1,PE | ATV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/7.ts
+#EXTINF:-1,PE | CANAL N
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/72.ts
+#EXTINF:-1,PE | TVPERU NOTICIAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/103.ts
+#EXTINF:-1,PE | EXITOSA TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/9.ts
+#EXTINF:-1,PE | GLOBAL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/8.ts
+#EXTINF:-1,PE | ATV+
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/34.ts
+#EXTINF:-1,PE | NATIVA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/108.ts
+#EXTINF:-1,PE | CONECTATV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/154.ts
+#EXTINF:-1,PE | ATV SUR
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/150.ts
+#EXTINF:-1,PE | ANDAHUAYLAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/217.ts
+#EXTINF:-1,PE | QOSQO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/106.ts
+#EXTINF:-1,PE | KARIBENA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/71.ts
+#EXTINF:-1,PE | CUMBIA TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/155.ts
+#EXTINF:-1,PE | MI FOLKLORE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/156.ts
+#EXTINF:-1,PE | CUSCO EN LINEA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/143.ts
+#EXTINF:-1,PE | HUAYNO TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/144.ts
+#EXTINF:-1,PE | SEMBRADORTV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/210.ts
+#EXTINF:-1,PE | GOL PERU | FULL HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/10.ts
+#EXTINF:-1,SONY
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/11.ts
+#EXTINF:-1,WARNER CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/12.ts
+#EXTINF:-1,STAR CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/13.ts
+#EXTINF:-1,UNIVERSAL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/14.ts
+#EXTINF:-1,LIFE TIME
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/15.ts
+#EXTINF:-1,ID
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/16.ts
+#EXTINF:-1,USA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/17.ts
+#EXTINF:-1,A&E
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/18.ts
+#EXTINF:-1,FX
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/19.ts
+#EXTINF:-1,STUDIO UNIVERSAL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/20.ts
+#EXTINF:-1,AMC
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/21.ts
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/22.ts
+#EXTINF:-1,CLOVER CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/23.ts
+#EXTINF:-1,CINECANAL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/24.ts
+#EXTINF:-1,SONY MOVIES
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/25.ts
+#EXTINF:-1,DISNEY CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/26.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/27.ts
+#EXTINF:-1,HISTORY 2
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/28.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/29.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/30.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/31.ts
+#EXTINF:-1,AXN
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/32.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/33.ts
+#EXTINF:-1,ESPN
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/36.ts
+#EXTINF:-1,ESPN2
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/46.ts
+#EXTINF:-1,ESPN3
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/35.ts
+#EXTINF:-1,ESPN4
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/37.ts
+#EXTINF:-1,ESPN5
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/49.ts
+#EXTINF:-1,ESPN6
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/146.ts
+#EXTINF:-1,ESPN7
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/38.ts
+#EXTINF:-1,E!
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/39.ts
+#EXTINF:-1,PASIONES
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/40.ts
+#EXTINF:-1,TELEMUNDO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/41.ts
+#EXTINF:-1,TLC
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/42.ts
+#EXTINF:-1,FILMS & ARTS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/43.ts
+#EXTINF:-1,NICK JR
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/44.ts
+#EXTINF:-1,DISCOVERY WORLD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/47.ts
+#EXTINF:-1,ANIMAL PLANET
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/48.ts
+#EXTINF:-1,NATGEO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/50.ts
+#EXTINF:-1,MTV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/51.ts
+#EXTINF:-1,NICKELODEON
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/52.ts
+#EXTINF:-1,FOOD NETWORK
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/53.ts
+#EXTINF:-1,EC | ECUADOR TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/54.ts
+#EXTINF:-1,AZ CINEMA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/55.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/56.ts
+#EXTINF:-1,DISCOVERY THEATER
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/57.ts
+#EXTINF:-1,AZ CORAZON
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/58.ts
+#EXTINF:-1,DISCOVERY SCIENCE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/59.ts
+#EXTINF:-1,KANAL D
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/60.ts
+#EXTINF:-1,Dreamworks
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/61.ts
+#EXTINF:-1,ZOOMO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/62.ts
+#EXTINF:-1,HBO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/63.ts
+#EXTINF:-1,HBO2
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/64.ts
+#EXTINF:-1,HBO FAMILY
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/65.ts
+#EXTINF:-1,HBO PLUS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/66.ts
+#EXTINF:-1,TNT
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/67.ts
+#EXTINF:-1,CARTOON NETWORK
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/68.ts
+#EXTINF:-1,SPACE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/69.ts
+#EXTINF:-1,CNN ESPAÑOL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/70.ts
+#EXTINF:-1,EC | TC TELEVISION
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/74.ts
+#EXTINF:-1,CANAL DE LAS ESTRELLAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/75.ts
+#EXTINF:-1,DISTRITO COMEDIA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/76.ts
+#EXTINF:-1,DIRECTV SPORT
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/77.ts
+#EXTINF:-1,CINEMAX
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/78.ts
+#EXTINF:-1,EC | CANAL DEL FUTBOL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/79.ts
+#EXTINF:-1,HBO XTREME
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/80.ts
+#EXTINF:-1,MOVISTAR DEPORTES
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/81.ts
+#EXTINF:-1,DIRECTV 2
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/82.ts
+#EXTINF:-1,DE PELICULA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/83.ts
+#EXTINF:-1,TNT SERIES
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/84.ts
+#EXTINF:-1,GOLDEN PREMIER
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/85.ts
+#EXTINF:-1,GOLDEN
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/86.ts
+#EXTINF:-1,CINE LATINO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/87.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/88.ts
+#EXTINF:-1,EC | ECUAVISA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/89.ts
+#EXTINF:-1,AR | TYC sports
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/90.ts
+#EXTINF:-1,CARACOL NOTICIAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/91.ts
+#EXTINF:-1,GOLDEN EDGE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/92.ts
+#EXTINF:-1,GOURMET
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/93.ts
+#EXTINF:-1,UNIVISION
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/94.ts
+#EXTINF:-1,CO | RCN NOVELAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/95.ts
+#EXTINF:-1,THE RETROFILES
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/96.ts
+#EXTINF:-1,TU CINE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/97.ts
+#EXTINF:-1,DIRECTV+
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/99.ts
+#EXTINF:-1,DIRECTV LIGA 1 MAX | FHD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/100.ts
+#EXTINF:-1,Directv Sports Fight
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/101.ts
+#EXTINF:-1,HGTV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/102.ts
+#EXTINF:-1,CHI | CHV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/104.ts
+#EXTINF:-1,DIRECTV LIGA 1
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/107.ts
+#EXTINF:-1,RETRO PLUS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/109.ts
+#EXTINF:-1,RETRO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/110.ts
+#EXTINF:-1,DW
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/111.ts
+#EXTINF:-1,BEBEFIN
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/112.ts
+#EXTINF:-1,FREETV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/113.ts
+#EXTINF:-1,AZ MUNDO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/115.ts
+#EXTINF:-1,CONGRESOTV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/117.ts
+#EXTINF:-1,LOVE NATURE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/118.ts
+#EXTINF:-1,MAS CHIC
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/119.ts
+#EXTINF:-1,IVC NETWORK
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/120.ts
+#EXTINF:-1,ANTENA 3
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/121.ts
+#EXTINF:-1,TRECE ARGENTINA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/122.ts
+#EXTINF:-1,PBO NOTICIAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/123.ts
+#EXTINF:-1,ESPN PREMIUN
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/124.ts
+#EXTINF:-1,NUEVO TIEMPO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/125.ts
+#EXTINF:-1,HBO SIGNATURE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/126.ts
+#EXTINF:-1,HBO MUNDI
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/127.ts
+#EXTINF:-1,MIAMITV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/128.ts
+#EXTINF:-1,PERUGOTV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/129.ts
+#EXTINF:-1,TELELIMA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/130.ts
+#EXTINF:-1,BITME
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/132.ts
+#EXTINF:-1,OVACION
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/133.ts
+#EXTINF:-1,NICKMUSIC
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/134.ts
+#EXTINF:-1,EUROPAEUROPA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/135.ts
+#EXTINF:-1,AZ CLIC
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/136.ts
+#EXTINF:-1,TELEHITLATINO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/137.ts
+#EXTINF:-1,BANDAMAX
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/138.ts
+#EXTINF:-1,WESTER
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/139.ts
+#EXTINF:-1,AGROTV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/140.ts
+#EXTINF:-1,DIRECTV LIGA 1 MAX | HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/141.ts
+#EXTINF:-1,ENLACE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/142.ts
+#EXTINF:-1,CTV PERU
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/147.ts
+#EXTINF:-1,FUN BOX PERU
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/148.ts
+#EXTINF:-1,SOS ACTION  | FULL HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/149.ts
+#EXTINF:-1,TELE SUR
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/151.ts
+#EXTINF:-1,CABLE SUR - CAMANA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/152.ts
+#EXTINF:-1,TELESUR - TACNA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/153.ts
+#EXTINF:-1,TNT SPORT PREMIUN HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/163.ts
+#EXTINF:-1,EC | RTS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/164.ts
+#EXTINF:-1,EC | GAMA TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/165.ts
+#EXTINF:-1,EC | TELEAMAZONAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/166.ts
+#EXTINF:-1,TLNOVELAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/167.ts
+#EXTINF:-1,GOL TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/168.ts
+#EXTINF:-1,PE | GOL PERU |  SD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/172.ts
+#EXTINF:-1,WINSPORT+
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/174.ts
+#EXTINF:-1,CGTN Documentary HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/175.ts
+#EXTINF:-1,CGTN E HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/176.ts
+#EXTINF:-1,EC | OROMAR
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/177.ts
+#EXTINF:-1,EC | TELERAMA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/178.ts
+#EXTINF:-1,PAR | TIGO SPORT
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/179.ts
+#EXTINF:-1,COS | TD+
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/180.ts
+#EXTINF:-1,COS | FUTV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/181.ts
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/182.ts
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/183.ts
+#EXTINF:-1,UNIVERSAL PREMIERE 2 HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/184.ts
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/185.ts
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/186.ts
+#EXTINF:-1,UNIVERSAL CINEMA HD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/187.ts
+#EXTINF:-1,SEMILLITAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/188.ts
+#EXTINF:-1,CARTTONITO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/189.ts
+#EXTINF:-1,MULTIPREMIER
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/190.ts
+#EXTINF:-1,TNT NOVELAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/192.ts
+#EXTINF:-1,CHI | CANAL13
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/193.ts
+#EXTINF:-1,DIRECTV LIGA 1 MAX | FHD LIGERO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/204.ts
+#EXTINF:-1,DIRECTV LIGA 1 MAX | SD
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/206.ts
+#EXTINF:-1,TELESUR - MOQUEGUA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/194.ts
+#EXTINF:-1,TELESUR - AREQUIPA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/195.ts
+#EXTINF:-1,HBO POP
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/196.ts
+#EXTINF:-1,BO | BOLIVISION
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/198.ts
+#EXTINF:-1,AZ HOMDURAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/199.ts
+#EXTINF:-1,CHI | MEGA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/200.ts
+#EXTINF:-1,CHI | TVN
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/201.ts
+#EXTINF:-1,CDN SPORT MAX
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/202.ts
+#EXTINF:-1,TARCE SPORT STARTS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/203.ts
+#EXTINF:-1,RADIO SOLAR | PASCO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/205.ts
+#EXTINF:-1,LA TELE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/207.ts
+#EXTINF:-1,RT EN ESPAÑOL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/208.ts
+#EXTINF:-1,TCM
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/209.ts
+#EXTINF:-1,CARTOONITO
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/211.ts
+#EXTINF:-1,GOLDEM PREMIR 2
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/212.ts
+#EXTINF:-1,ONE TV
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/213.ts
+#EXTINF:-1,EC |  GAMAVISION
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/215.ts
+#EXTINF:-1,CNN CHILE
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/216.ts
+#EXTINF:-1,PE | PERU CHANNEL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/218.ts
+#EXTINF:-1,PE | TLLIMA
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/219.ts
+#EXTINF:-1,ONDA DIGITAL
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/220.ts
+#EXTINF:-1,CO | RCN NOTICIAS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/221.ts
+#EXTINF:-1,PLAYBOY
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/169.ts
+#EXTINF:-1,VENUS
+http://hd.tvpremiun.com:80/hector/3Y6rxGKPsY/173.ts
